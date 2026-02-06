@@ -1,1 +1,2 @@
-# ICE446-Mini-Project
+# Localization Process of Satellite Integrated with GSM for Enhanced Positioning Services
+This paper presents a hybrid localization system combining satellite and GSM networks to improve positioning where GPS is weak or unavailable. Using time-of-arrival measurements and interference management in shared spectrum, the approach achieves up to 50% better accuracy than standalone systems and discusses related technical, regulatory, and future research challenges.
